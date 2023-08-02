@@ -8,7 +8,7 @@ Install:
 $ yarn add --dev @react-native-ui-components/prettier-config
 ```
 
-**Edit `package.json`**:
+Edit `package.json`:
 
 ```jsonc
 {
