@@ -1,0 +1,9 @@
+{
+	"name": "@react-native-ui-components/prettier-config",
+	"version": "1.0.0",
+	"main": "index.json",
+	"repository": "git@github.com:react-native-ui-components/prettier-config.git",
+	"author": "Morgan Barrett <morganbarrett@icloud.com>",
+	"license": "MIT",
+	"prettier": "./index.json"
+}
