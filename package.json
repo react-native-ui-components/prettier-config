@@ -5,5 +5,11 @@
 	"repository": "git@github.com:react-native-ui-components/prettier-config.git",
 	"author": "Morgan Barrett <morganbarrett@icloud.com>",
 	"license": "MIT",
-	"prettier": "./index.json"
+	"prettier": "./index.json",
+	"scripts": {
+		"format": "npx prettier --write ."
+	},
+	"devDependencies": {
+		"prettier": "^3.0.1"
+	}
 }
